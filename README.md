@@ -1,5 +1,6 @@
 
-#              Arduino_Master_Delta (AMD) Tutorial         
+#              Arduino_Master_Delta (AMD) Tutorial    
+![intropic](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/IntroPic.png?raw=true)
 ### _Sayad Pervez - Developer of AMD Module - [pervez2504@gmail.com](https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)_
 ![Mr_Handsome](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/Mr_Handsome_3.jpg?raw=true)
 ___
