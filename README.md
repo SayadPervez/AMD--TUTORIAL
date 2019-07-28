@@ -5,7 +5,7 @@
 ### _Sayad Pervez - Developer of AMD Module - [pervez2504@gmail.com](https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)_
 ___
 ## Note:
-### For easier importing and accessing of this module, Arduino_Master_Delta has been renamed as AMD. A new pip module named AMD has been created and all of the future updates will be implemented on AMD alone and not in Arduino_Master_Delta. Everytime you see Arduino_Master_Delta in this tutorial, replace it with AMD in your code !!
+### For easier importing and accessing of this module, Arduino_Master_Delta has been renamed as AMD. A new pip module named AMD has been created and all of the future updates will be implemented on AMD alone and not in Arduino_Master_Delta. `Everytime you see Arduino_Master_Delta in this tutorial, replace it with AMD in your code !!`
 ___
 ### Documentation at this link -> [Docs](https://pypi.org/project/Arduino-Master-Delta/)
 ___
@@ -319,6 +319,12 @@ ___
 ![jdhfn](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/Instagram-Uploads/Filter/PC_limit.JPG?raw=true)
 ### Graph:
 ![iodwf](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/Instagram-Uploads/Filter/G5_limit.jpeg?raw=true)
+___
+## above and below:
+### Python Code:
+![dfdsdgdfgf](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/PC_aboveBelow.JPG?raw=true)
+### Graph:
+![dgfhdfxzfdfgfhdg](https://github.com/SayadPervez/AMD--TUTORIAL/blob/master/Eg_AboveBelow.png?raw=true)
 ___
 ___
 # Checking Light Intensity using LDR:
